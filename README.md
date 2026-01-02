@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hey there! I’m Abhijeet Soni 👨‍💻<br>🛠️ Full-Stack Web Wizard blending logic & creativity with the MERN Stack.<br>🎯 Crafting sleek interfaces, building powerful backends, and solving real-world problems with code.<br>🌱 Currently leveling up my skills, one project at a time — because coffee + code = 🚀
+<br>Hey there! I’m Abhijeet Soni 👨‍💻 <br>🛠️ Full-Stack Web Wizard blending logic & creativity with the MERN Stack.<br>🎯 Crafting sleek interfaces, building powerful backends, and solving real-world problems with code.<br>🌱 Currently leveling up my skills, one project at a time — because coffee + code = 🚀
 
 
 ## 🌐 Socials:
