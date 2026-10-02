@@ -1,29 +1,247 @@
-# 💫 About Me:
-<br>Hey there! I’m Abhijeet Soni 👨‍💻 <br>🛠️ Full-Stack Web Wizard blending logic & creativity with the MERN Stack.<br>🎯 Crafting sleek interfaces, building powerful backends, and solving real-world problems with code.<br>🌱 Currently leveling up my skills, one project at a time — because coffee + code = 🚀
+# 👋 Hi, I'm Abhijeet Soni
 
+### 💻 Full-Stack Developer | 🤖 AI & BDA Student | 🚀 Building Real-World Applications
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-soni04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Abhijee97748833) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisonijeet@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhiJeetSoni22&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbhiJeetSoni22&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiJeetSoni22&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbhiJeetSoni22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbhiJeetSoni22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://abhijeet-soni-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhijeet-soni04">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhisonijeet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/@Abhijee97748833">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhiJeetSoni22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Full-Stack Developer focused on building scalable and user-friendly web applications.
+- 🤖 Currently exploring **AI, Generative AI, NLP, RAG and AI-powered applications**.
+- 🎓 Pursuing **MSc in Artificial Intelligence & Business Analytics**.
+- ⚡ Experienced with **MERN, Next.js, TypeScript, FastAPI and PostgreSQL**.
+- 🧠 Interested in combining **Web Development + AI** to solve real-world problems.
+- 🌱 Continuously learning, building and improving one project at a time.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" />
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker" />
+</p>
+
+### 🤖 AI / Data / Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Internship Hunter
+
+An AI-powered internship and job discovery platform that collects opportunities, analyzes resumes and calculates job-match scores.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Gemini` `Playwright` `Docker`
+
+🔗 [GitHub Repository](https://github.com/AbhiJeetSoni22/Job_Hunter)
+
+---
+
+## 🎓 EduPilot — AI Academic Assistant
+
+An AI-powered academic assistant designed to help students interact with their syllabus and academic resources using conversational AI and retrieval-based approaches.
+
+**Tech Stack**
+
+`Next.js` `Node.js` `Gemini` `MongoDB` `RAG`
+
+---
+
+## 📚 Retrieval Based Question Answering
+
+A modular NLP application for uploading PDF documents, processing their content, retrieving relevant passages and generating answers based on document context.
+
+**Tech Stack**
+
+`Python` `Streamlit` `PyMuPDF` `NLP` `Semantic Retrieval`
+
+---
+
+## 🚕 Maargi
+
+A ride-hailing web application focused on real-time interactions, responsive UI and scalable full-stack architecture.
+
+**Tech Stack**
+
+`React` `Next.js` `Node.js` `MongoDB` `Socket.io`
+
+---
+
+## 🛒 Grocify
+
+A full-stack grocery shopping application with product management, authentication and a responsive user experience.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=AbhiJeetSoni22&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiJeetSoni22&layout=compact&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=AbhiJeetSoni22&theme=aura_dark&hide_border=true"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AbhiJeetSoni22&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1"
+  />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiJeetSoni22&theme=react-dark&hide_border=true"
+  />
+</p>
+
+---
+
+# 💡 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+# 🎯 What I Like Building
+
+<p align="center">
+
+🤖 AI-Powered Applications  
+&nbsp;&nbsp; + &nbsp;&nbsp;
+🌐 Full-Stack Web Applications  
+&nbsp;&nbsp; + &nbsp;&nbsp;
+🧠 NLP & RAG Systems  
+&nbsp;&nbsp; + &nbsp;&nbsp;
+⚡ Developer Tools  
+
+</p>
+
+<p align="center">
+
+<strong>Building → Learning → Improving → Repeating 🚀</strong>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="https://abhijeet-soni-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge" />
+  </a>
+
+  <a href="https://linkedin.com/in/abhijeet-soni04">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:abhisonijeet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/@Abhijee97748833">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Developer Quote
+
+<p align="center">
+
+> "Build. Break. Learn. Improve. Repeat."
+
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=AbhiJeetSoni22&label=Profile%20Views&color=blue&style=for-the-badge"
+  />
+</p>
